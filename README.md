@@ -1,5 +1,6 @@
 # Finding-Appropriate-Place-for-customer
-Introduction/Business Problem
+# Introduction/Business Problem
+
 A Martial Arts Teacher wants to set up his training centre in San Francisco . He wants to set his office in the location where the crime rates are high(as people would be more willing to learn martial arts) and also in the locality where people visit more often like places near restaurants, gym’s etc.
 So In order to solve this problem we will be taking the following steps:¶
 
